@@ -18,7 +18,6 @@ if islem == "1":
     fah()
 
 elif islem == "2":
-    print()
     cel()
 
 else:
