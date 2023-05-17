@@ -21,6 +21,6 @@ elif islem == "2":
     cel()
 
 else:
-    print("yanlış yazmış olmalısın")
+    print("yanlış değer")
 
 
