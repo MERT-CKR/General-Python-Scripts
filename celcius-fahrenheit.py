@@ -5,13 +5,13 @@ islem = input()
 def celToFah():
     Celcius = int(input("Celciusu gir:"))
     Fahrenheit =Celcius*9/5 +32
-    print(Fahrenheit,"Fahrenheit derece")
+    print(Celcius,"Celcius = ",Fahrenheit,"Fahrenheit derece")
 
 
 def fahToCel():
     Fahrenheit = int(input("Fahrenheit gir:"))
     Celcius =(Fahrenheit-32)*5/9
-    print(Celcius,"Celcius derece")
+    print(Fahrenheit,"Fahrenheit = ",Celcius,"Celcius derece")
 
 
 if islem == "1":
