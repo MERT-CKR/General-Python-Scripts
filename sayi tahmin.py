@@ -11,7 +11,7 @@ if hak > girilen:
 cevap = random.randint(1,girilen+1)
 
 while hak>0:
-    tahmin = int(input(f"Tahmin Et"))
+    tahmin = int(input(f"Tahmin Et: "))
     
     if tahmin < cevap:
         print("Yukarı")
@@ -21,7 +21,7 @@ while hak>0:
         print("Aşşağı")
         hak-=1
     else:
-        print(f"Tebrikler oyun bitti Tuttuğum sayı:{cevap}")
+        print(f"Tebrikler oyun bitti, doğru cevap:{cevap}")
         break
         
 if hak==0:

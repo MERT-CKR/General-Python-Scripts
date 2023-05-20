@@ -1,6 +1,6 @@
 def vki():
     kilo = float(input("Kilonuzu girin (kg): "))
-    boy = float(input("Boyunuzu girin (metre): "))
+    boy = float(input("Boyunuzu girin (m): "))
     vki = kilo / (boy * boy)
     
     if vki <= 18.5:
