@@ -16,5 +16,5 @@ def diskriminant():
     else:
         x1 = (-b - math.sqrt(diskriminant))/2*a
         x2 = (-b + math.sqrt(diskriminant))/2*a
-        print("denklemin 2 farklı reel kökü vardır, x1:",x1,", x2",x2)
+        print("Denklemin 2 farklı reel kökü vardır, x1:",x1,", x2",x2)
 diskriminant()

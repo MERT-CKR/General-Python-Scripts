@@ -3,7 +3,7 @@ import random
 girilen = int(input("bir ile kaç arasında bir tahminde bulunmak istersiniz? "))
 hak = int(input("kaç deneme hakkı istersiniz ?"))
 
-if hak > girilen:
+if hak >= girilen:
     hak = int(girilen/2)
     if hak == float:
         hak = hak-0.5
@@ -21,7 +21,7 @@ while hak>0:
         print("Aşşağı")
         hak-=1
     else:
-        print(f"Tebrikler oyun bitti, doğru cevap:{cevap}")
+        print(f"Tebrikler doğru cevabı buldun Cevap:{cevap}, kalan hakkınız:{hak}")
         break
         
 if hak==0:
