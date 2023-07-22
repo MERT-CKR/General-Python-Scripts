@@ -16,7 +16,7 @@ def giris():
         print(f"merhaba {default_isim}, Şifrenizi Girin: ")
         girilen_sifre = input("")
         if default_sifre == girilen_sifre:
-            print("giriş başarılı keyifli kullanımkar")
+            print("giriş başarılı keyifli kullanımlar")
         else:
             print("yanlış şifre")
     else:
