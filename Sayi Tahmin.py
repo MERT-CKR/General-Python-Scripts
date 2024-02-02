@@ -18,7 +18,7 @@ while hak>0:
         hak-=1
 
     elif tahmin > cevap:
-        print("Aşşağı")
+        print("Aşağı")
         hak-=1
     else:
         print(f"Tebrikler oyun bitti Tuttuğum sayı:{cevap}")
