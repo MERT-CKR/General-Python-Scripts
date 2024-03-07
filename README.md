@@ -31,7 +31,7 @@ Bu repo içerisinde bulunan projelerin kısa açıklamaları aşağıda verilmi�
 - **pisagor.py**: Pisagor teoreminden yararlanarak dik üçgenlerin hipotenüsünü hesaplayan bir program.
 
 - **tersten yazma ve palindrom.py**: Bir kelimenin tersten yazılışını gösteren bir program.
-- 
+
 - **vücut kütle indexi.py**: Vücut kitle indeksini hesaplayan bir program.
 
 - **yere düşme süresi.py**: Bir nesnenin belirli bir yükseklikten serbest düşme süresini hesaplayan bir program.
