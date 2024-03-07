@@ -10,9 +10,6 @@ Bu repo içerisinde bulunan projelerin kısa açıklamaları aşağıda verilmi�
 
 - **Hesap makinesi.py**: Basit bir hesap makinesi uygulaması.
 
-
-- **Sayi Tahmin.py**: Kullanıcının belirli bir aralıktaki bir sayıyı tahmin etmesine olanak tanıyan bir oyuncak.
-
 - **celcius-fahrenheit-kelvin.py**: Sıcaklık birimlerini dönüştüren bir program.
 
 - **daire alanı ve cevresi.py**: Bir dairenin alanını ve çevresini hesaplayan bir program.
@@ -33,7 +30,8 @@ Bu repo içerisinde bulunan projelerin kısa açıklamaları aşağıda verilmi�
 
 - **pisagor.py**: Pisagor teoreminden yararlanarak dik üçgenlerin hipotenüsünü hesaplayan bir program.
 
-- **tersten yazma ve palindrom.py**: Bir kelimenin tersten yazılışını ve palindrom olup olmadığını kontrol eden bir program.
+- **tersten yazma ve palindrom.py**: Bir kelimenin tersten yazılışını gösteren bir program.
+- 
 - **vücut kütle indexi.py**: Vücut kitle indeksini hesaplayan bir program.
 
 - **yere düşme süresi.py**: Bir nesnenin belirli bir yükseklikten serbest düşme süresini hesaplayan bir program.
