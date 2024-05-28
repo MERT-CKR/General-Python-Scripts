@@ -1,3 +1,14 @@
 kenar = int(input("herhangi bir kenarı girin: "))
-print(f"karenin alanı: {pow(kenar,2)}, Karenin çevresi: {kenar*4}")
 
+def alan(kenar):
+  a = kenar ** 2
+  return a
+
+
+def cevre(kenar):
+  c = kenar * 4
+  return c
+
+
+print(alan(kenar))
+print(cevre(kenar))
