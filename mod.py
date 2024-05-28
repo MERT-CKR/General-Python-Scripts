@@ -1,11 +1,11 @@
 def mod(x,y):
-    if type(x)!=int and type(x)!=float:
+    if not (isinstance(x, (int, float)) and isinstance(y, (int, float))):
         raise TypeError("Function received wrong type")
     x=abs(x)
     while x>1:
         x-=y
     if x<0:
-        x=x+y
+        x+=y
     print(x)
 
 
